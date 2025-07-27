@@ -39,12 +39,11 @@ print('List:', numb)
 
 
 ##removes the 9
-pn = [2,3,5,7,9]
-remove_element = pn.pop(4)
+pn = [2,3,9,5,7,9]
+remove_element = pn.pop()
 print('Updated List:', pn)
 
-##removes all the 9's
-pn2 = [2,3,5,7,9,9,9]
+##removes the first line it meets in the array
+pn2 = [9,2,3,5,7,9,9,9]
 pn2.remove(9)
-print('Updated List:', pn)
-
+print('Updated List:__----__+HI', pn2)
