@@ -47,5 +47,10 @@ def num_ten():
 # print(num_ten())
 
 
-for r in range(0,100):
-    print(r)
+# for r in range(0,100):
+    # print(r)
+
+def add(a,b):
+    return a+b
+
+print(add(6,98765))

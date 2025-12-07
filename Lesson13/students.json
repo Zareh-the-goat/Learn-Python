@@ -1,0 +1,74 @@
+{
+  "Zareh": {
+    "grade": 6,
+    "subjects": [
+      " French",
+      " Math",
+      " Science",
+      "English",
+      "History",
+      "Wheel Class"
+    ],
+    "scores": {
+      "Wheel Class": 72,
+      "English": 96,
+      " French": 98,
+      "History": 86,
+      " Science": 92,
+      " Math": 94
+    }
+  },
+  "Aram": {
+    "grade": 3,
+    "subjects": [
+      "History",
+      "Math",
+      "Reading",
+      "Writing"
+    ],
+    "scores": {
+      "History": 92,
+      "Writing": 86,
+      "Reading": 84,
+      "Math": 95
+    }
+  },
+  "Soham": {
+    "grade": 6,
+    "subjects": [
+      " Math",
+      " Science",
+      " Spanish",
+      "English",
+      "History",
+      "Wheel Class"
+    ],
+    "scores": {
+      "Wheel Class": 100,
+      "English": 82,
+      " Spanish": 88,
+      "History": 90,
+      " Science": 96,
+      " Math": 98
+    }
+  },
+  "Jack": {
+    "grade": 6,
+    "subjects": [
+      " Spanish",
+      " Math",
+      " Science",
+      "English",
+      "History",
+      "Wheel Class"
+    ],
+    "scores": {
+      "History": 90,
+      " Spanish": 0,
+      "English": 90,
+      " Science": 86,
+      " Math": 96,
+      "Wheel Class": 100
+    }
+  }
+}

@@ -1,4 +1,4 @@
-##Today I learned while loops if conditions inupts and random numbers.
+##Today I learned while loops if conditions inputs and random numbers.
 
 import random
 num = random.randrange (1,10)
