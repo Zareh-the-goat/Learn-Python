@@ -19,8 +19,8 @@ for x in range (len(questions)):
 
     if y == answers[x]:
             print("Correct!")
-            score += 1
+            # score += 1
     else:
-            print("Sorry you are incorrect :(")
+        print("Sorry you are incorrect :(")
 
-print("Your score is", score, "out of 4")
+# print("Your score is", score, "out of 4")

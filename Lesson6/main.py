@@ -1,16 +1,16 @@
-# def av_grade():
-#
-#     grades = 0
-#
-#     i = 0
-#     while i < 10:
-#         grades += int(input("What is you last ten grades?"))
-#
-#         i=i+1
-#
-#
-#     print(grades / 10)
-#
+def av_grade():
+
+    grades = 0
+
+    i = 0
+    while i < 10:
+        grades += int(input("What is you last ten grades?"))
+
+        i=i+1
+
+
+    print(grades / 10)
+
 # av_grade()
 
 def sum():
@@ -32,7 +32,7 @@ def num_eq_thi():
         return "True"
     else:
         return "False"
-#
+
 # print(num_eq_thi())
 
 
@@ -47,10 +47,10 @@ def num_ten():
 # print(num_ten())
 
 
-# for r in range(0,100):
-    # print(r)
+for r in range(0,100):
+    print(r)
 
 def add(a,b):
     return a+b
 
-print(add(6,98765))
+# print(add(6,98765))
